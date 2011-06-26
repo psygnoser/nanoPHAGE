@@ -142,7 +142,7 @@ package
 				} else {
 					
 					if ( smokeInx == 0 ) {
-						Smoke.invoke( x, y, 18, 0.970 );
+						Smoke.invoke( x + ( Math.random() * 12 - 6 ), y + ( Math.random() * 12 - 6 ), 18, 0.970 );
 						smokeInx = S_INX;
 					}
 					

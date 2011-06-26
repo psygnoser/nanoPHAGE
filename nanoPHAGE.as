@@ -15,14 +15,15 @@ package
 	
 	/**
 	 * nanoPHAGE
-	 * @version 1.0 Beta 3.5
-	 * @since 201006251704
+	 * @version 1.0 Beta 3.6
+	 * @since 201106261644
 	 * @author Tilen Leban <psygnoser@gmail.com>
+	 * @link http://www.psygnoser.com/nanophage
 	 * @link http://www.psywerx.net
 	 */
 	public class nanoPHAGE extends Sprite
 	{
-		public static const VERSION: String = '1.0 Beta 3.5';
+		public static const VERSION: String = '1.0 Beta 3.6';
 
 		[Embed(source="img/logoSplash.jpg")] 
 		private static var bg: Class;
