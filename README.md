@@ -4,7 +4,7 @@ Definitely needs refactoring on the code side, and could most certainly
 be vastly improved in all aspects. Maybe one day... :)
 
 ## Play it on ##
-http://psygnoser.com/nanoPHAGE
+http://psygnoser.com/nanophage
 
 ## Author ##
 Tilen 'PSYGNOSER' Leban, 22nd June 2011
